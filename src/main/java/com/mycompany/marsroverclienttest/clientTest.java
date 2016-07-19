@@ -39,6 +39,10 @@ import org.apache.http.impl.client.HttpClients;
  * @author User
  */
 public class clientTest {
+	
+	
+	
+	
 
     static {
         Webcam.setDriver(new V4l4jDriver()); // this is important
